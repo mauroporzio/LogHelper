@@ -1,0 +1,15 @@
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\obj\Debug\LogHelper.csprojAssemblyReference.cache
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\obj\Debug\LogHelper.csproj.CoreCompileInputs.cache
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\LogHelper.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\LogHelper.pdb
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.AccessControl.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.Permissions.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.AccessControl.xml
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.Permissions.xml
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\obj\Debug\LogHelper.csproj.CopyComplete
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\obj\Debug\LogHelper.dll
+D:\New folder (6)\MAURO\EdsaAcademy\Logger\Logger\LogHelper\obj\Debug\LogHelper.pdb
