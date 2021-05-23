@@ -5,7 +5,7 @@ En este repositorio se encuentra la Solucion de un Log Helper. Para luego implem
 
   Dentro de esta solucion se podra encontrar:
       
-        Una proyecto "LogHelper" donde se ubica la interfaz "ILogger" y la libreria de clase "Logger" con el metodo para logear un error.
+        Un proyecto "LogHelper" donde se ubica la interfaz "ILogger" y la libreria de clase "Logger" con el metodo para logear un error.
         Dicho metodo recibe por parametro un errorMessage que proviene del error arojado durante una ejecucion. Luego junto a un valor proveniente de una key en el web.config,
         determina el path donde se ubicara el log.txt donde se almacena el error. Ademas se agregar al fecha y hora del logeo.
         
